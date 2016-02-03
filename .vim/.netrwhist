@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ict/depot/AcceleNet/Users/rlamarre/VWA.Main/VWA_Deployment/GO/quincy'
+let g:netrw_dirhist_2='/home/ict/depot/AcceleNet/VWA.Main/VWA_Deployment/traffic-test'
+let g:netrw_dirhist_3='/home/ict/depot/AcceleNet/Users/rlamarre/Automation/Scripts/ARTframework/pth'
+let g:netrw_dirhist_4='/home/ict/depot/AcceleNet/VWA.Main/VWA_Deployment/roles/common/tasks'
+let g:netrw_dirhist_5='/home/ict/depot/AcceleNet/Automation/Scripts/ARTframeworkReleases/Prod/Scripts/ARTframework/resultslibrary'
+let g:netrw_dirhist_6='/home/ict/depot/AcceleNet/VWA.Main/BuildSystem/BuildScripts'
+let g:netrw_dirhist_7='/home/ict/depot/AcceleNet/VWA.Main/VWA_Deployment/GO/wdc1'
+let g:netrw_dirhist_8='/home/ict/suds-htj-master'
